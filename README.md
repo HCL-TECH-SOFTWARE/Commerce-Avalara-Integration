@@ -11,6 +11,8 @@ If you have questions or encounter problems with an HCL Commerce open source ass
 
 **Avalara Tax has been implemented using Headless REST API's and has been integrated to the React storefront by following the instructions below.**
 
-**Prerequisites:** HCL Commerce V9.1.x / HCL Commerce React Storefront SDK
+**Prerequisites:** HCL Commerce V9.1.x / HCL Commerce React Storefront SDK. Tested with 9.1.11 Release
 
 **The integration instructions are updated in Avatax HCS9 REST V2 Interation Deployment Guide.pdf
+
+**Enabled VAT in this version of the asset
